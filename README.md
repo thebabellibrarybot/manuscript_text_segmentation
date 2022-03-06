@@ -1,0 +1,2 @@
+# manuscript_text_segmentation
+NN designed to identify and make bounding boxes around section of a page that includes text, of course for manuscripts tho (13-15c BOH). Crops to furthers corners of bounding boxes and applies a mask over the access non text space. **Should be followed up with a similar version used to find noise // badlines and mask over that info aka prepping pages for line segmentation. 
